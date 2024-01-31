@@ -1,0 +1,2 @@
+Hello, Good Morning
+Today we learnt how to create a repo and working on it making a clone and now, we gonna merge it with the origin.
